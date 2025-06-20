@@ -1,0 +1,15 @@
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\bin\Debug\net9.0\TempApp.exe
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\bin\Debug\net9.0\TempApp.deps.json
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\bin\Debug\net9.0\TempApp.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\bin\Debug\net9.0\TempApp.dll
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\bin\Debug\net9.0\TempApp.pdb
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\obj\Debug\net9.0\TempApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\obj\Debug\net9.0\TempApp.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\obj\Debug\net9.0\TempApp.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\obj\Debug\net9.0\TempApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\obj\Debug\net9.0\TempApp.sourcelink.json
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\obj\Debug\net9.0\TempApp.dll
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\obj\Debug\net9.0\refint\TempApp.dll
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\obj\Debug\net9.0\TempApp.pdb
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\obj\Debug\net9.0\TempApp.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\Digital-Nurture-4.0-DotNetFSE-2229120\week 1\exercise4\TempApp\obj\Debug\net9.0\ref\TempApp.dll
