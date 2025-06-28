@@ -8,24 +8,32 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\KIIT\\.nuget\\packages\\": {}
+    "C:\\Users\\KIIT\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-2229120\\week 1\\exercise2\\TempApp\\TempApp.csproj",
+      "projectUniqueName": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE--SupersetID-6360375\\week 1\\exercise2\\TempApp\\TempApp.csproj",
       "projectName": "TempApp",
-      "projectPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-2229120\\week 1\\exercise2\\TempApp\\TempApp.csproj",
+      "projectPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE--SupersetID-6360375\\week 1\\exercise2\\TempApp\\TempApp.csproj",
       "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-2229120\\week 1\\exercise2\\TempApp\\obj\\",
+      "outputPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE--SupersetID-6360375\\week 1\\exercise2\\TempApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
