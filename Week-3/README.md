@@ -16,12 +16,7 @@ The solutions along with the output screenshots are included for reference.
 | Exercise 5   | Retrieving Data from the Database             |
 
 
-### Additional Assignments
 
-| Exercise No. | Title                                      |
-|--------------|--------------------------------------------|
-| Exercise 1   | Updating and Deleting Records            |
-| Exercise 2   | Writing Queries with LINQ            |
 
 ## Folder Structure
 
@@ -45,10 +40,3 @@ Each assignment is organized in its own subfolder:
     * `output.png`, `README.md`
 
 
-* [Additional-Exercises](./Additional-Exercises)
-  * [Exercise1 – Updating and Deleting Records](./Additional-Exercises/Exercise1)
-      * `RetailInventory` 
-      * `output.png`, `README.md`
-  * [Exercise1 – Writing Queries with LINQ](./Additional-Exercises/Exercise2)
-      * `RetailInventory` 
-      * `output.png`, `README.md`  
